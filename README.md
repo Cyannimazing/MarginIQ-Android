@@ -9,7 +9,7 @@ MarginIQ helps you take control of your pricing by calculating the true cost of 
 
 Download the latest APK and install it on your Android device:
 
-📥 **[Download MarginIQ.apk](#)**
+[Download MarginIQ.apk](https://github.com/Cyannimazing/MarginIQ-Android/raw/main/MarginIQ.apk)
 
 > **Note:** You may need to enable **"Install from unknown sources"** in your Android settings before installing.
 
