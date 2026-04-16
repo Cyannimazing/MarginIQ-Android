@@ -49,6 +49,6 @@ Download the latest APK and install it on your Android device:
 
 ## Version
 
-**v2.0.2** — Initial release
+**v2.0.3** — Initial release
 
 > Source code is private. This repository is for distribution only.
