@@ -1,7 +1,7 @@
 # MarginIQ
 ### Product Cost Optimizer for Small Businesses
 
-MarginIQ helps you take control of your pricing by calculating the true cost of every product you sell - including ingredients, overhead, packaging, and more — so you always know your **real profit margin and selling price automatically.**
+MarginIQ helps you take control of your pricing by calculating the true cost of every product you sell - including ingredients, overhead, packaging, and more - so you always know your **real profit margin and selling price automatically.**
 
 ---
 
