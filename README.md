@@ -19,7 +19,7 @@ Download the latest APK and install it on your Android device:
 
 | Feature | Description |
 |---|---|
-| **Auto Selling Price** | Input your costs and target margin — MarginIQ automatically calculates your optimal selling price. No manual math needed. |
+| **Auto Selling Price** | Input your costs and target margin - MarginIQ automatically calculates your optimal selling price. No manual math needed. |
 | **Product Costing** | Build detailed cost breakdowns per product with ingredients and resources |
 | **Resource Library** | Manage reusable ingredients and materials with unit costs |
 | **Sales Logger** | Log your daily/monthly sales per product |
@@ -49,6 +49,6 @@ Download the latest APK and install it on your Android device:
 
 ## Version
 
-**v1.0.0** — Initial release
+**v2.0.2** — Initial release
 
 > Source code is private. This repository is for distribution only.
